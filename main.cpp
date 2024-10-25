@@ -45,4 +45,4 @@ int main()
 // Linda changes
 
 
-// user 1 - Diagnose changes
+// user 1 - Diagnose changes - please check them
